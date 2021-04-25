@@ -1,24 +1,23 @@
-body{
+body {
   background-color: rgb(8, 70, 8);
+  color: white;
 }
 
-nav,
 .container {
   background-color: rgb(8, 70, 8);
 }
 
-nav {
+/* nav {
   position: fixed;
   left: 0;
   top: 0;
-}
+} */
 
 footer {
   /* position: fixed;
   left: 0;
   bottom: 0; */
   text-align: center;
-  color: white;
   width: 100%;
   padding: 10px;
   margin: 0%;
